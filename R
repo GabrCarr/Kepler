@@ -1,4 +1,0 @@
-#quali compiti ci sono da fare?
--per ilnglese bisogna scrivere una relazione su progetto sapone
--per dati usare le librerie di python 
-
