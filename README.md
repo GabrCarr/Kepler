@@ -1,6 +1,4 @@
-
-ciao il mio nome è antonino 
-
+# Progetto Kepler.gl 
 
 
 
